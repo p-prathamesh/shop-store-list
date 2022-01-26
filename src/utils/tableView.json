@@ -1,0 +1,11 @@
+{
+  "list": [
+    "Id",
+    "Name",
+    "Area",
+    "Shop Category",
+    "Open at",
+    "Close at",
+    "Actions"
+  ]
+}
